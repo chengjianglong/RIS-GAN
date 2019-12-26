@@ -1,5 +1,5 @@
 # RIS-GAN
-This repository contains TensorFlow code for the paper titled "RIS-GAN: Explore Residual and Illumination with Generative Adversarial Networks for Shadow Removal" [pdf](https://arxiv.org/abs/1911.09178) (http://www.chengjianglong.com/publications/RISGAN_AAAI.pdf).
+This repository contains TensorFlow code for the paper titled "RIS-GAN: Explore Residual and Illumination with Generative Adversarial Networks for Shadow Removal" [aXiv](https://arxiv.org/abs/1911.09178) (http://www.chengjianglong.com/publications/RISGAN_AAAI.pdf).
 
 ##RIS-GAN Architecture
 
@@ -46,7 +46,7 @@ Attached below are some shadow removal results from the test set.
 ### Citation
 If you use the code in your own research, please cite:
 ```
-@InProceedings{Zhang:AAA2020,  
+@InProceedings{Zhang:AAAI2020,  
   title = {RIS-GAN: Explore Residual and Illumination with Generative Adversarial Networks for Shadow Removal},
   author = {Zhang, Ling and Long, Chengjiang and Zhang, Xiaolong and Xiao, Chunxia},
   booktitle = {AAAI Conference on Artificial Intelligence (AAAI)},
